@@ -22,3 +22,4 @@ class Animal {
   const miPerro = new Perro('Fido', 'Labrador');
   miPerro.saludar(); // Hola, soy Fido
   miPerro.ladrar(); // ¡Guau! ¡Guau!
+  
